@@ -13,7 +13,7 @@
 
 ![Design Process](cv.png)
 
-### Finding the right problem
+### Finding the right problema
 - Map out the problem
 - Do research and get insights
 - Talk to people and share you understanding
@@ -27,12 +27,24 @@
   - Measure
   - Learn
 
-**The Design Process**
+
 
 ![The Design Process](dp.png)
+**The Design Process**
 
-## Class Activity
-  - Activity: Design a weather app
+## Class Activity: Design a weather app
+
+![Honest Weather](aw.png)
+
+### Design Process
+- Gather notes on the problem
+- Crazy Eights — Generate as many ideas as possible  (8 min)
+- Sync — Explain and share each of your ideas (10 min)
+- Prototype — Work out a prototype as a team
+
+
+![Design Process](https://www.google.com/search?q=crazy+8s+explanation&num=100&safe=off&tbm=isch&source=lnms&sa=X&ved=0ahUKEwiriOvt9N3XAhWEhZAKHXD7AXAQ_AUICygC&biw=1439&bih=799&dpr=2#imgrc=fAEMV16H5lzJjM:)
+
 
 
 ## Design Resources
