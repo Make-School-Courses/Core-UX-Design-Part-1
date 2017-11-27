@@ -1,15 +1,15 @@
 # Core - UX Design Part 1
 
-## Objectives
+### Objectives
 - Design at tech companies
 - 10 Tips that will make you a better designer
 - The design process
 
-## Class Materials
+### Class Materials
 
 [UX Design Part 1 - Slides](https://docs.google.com/a/makegameswith.us/presentation/d/1-xiwTnOzPhnyqC1UF788LE9KcX09e-XeU5UOSVrXaGA/edit?usp=sharing)
 
-## The Design process
+# The Design process
 
 ![Design Process](cv.png)
 
@@ -32,7 +32,7 @@
 ![The Design Process](dp.png)
 **The Design Process**
 
-## Class Activity: Design a weather app
+# Class Activity: Design a weather app
 
 ![Honest Weather](aw.png)
 
@@ -43,8 +43,24 @@
 - Prototype — Work out a prototype as a team
 
 
-![Design Process](https://www.google.com/search?q=crazy+8s+explanation&num=100&safe=off&tbm=isch&source=lnms&sa=X&ved=0ahUKEwiriOvt9N3XAhWEhZAKHXD7AXAQ_AUICygC&biw=1439&bih=799&dpr=2#imgrc=fAEMV16H5lzJjM:)
+![Design Process](c8.png)
 
+
+### Goals for Crazy Eights
+
+- Generate as many ideas as possible 
+- Focus on quantity of ideas, not quality.
+- Once we have a bunch of diverging ideas, we will begin converging on winning ideas.
+
+### Instructions for starting the Crazy Eights
+
+1. Write down some notes on the problem for 5min.
+1. Take your paper and fold it into 8 sections.
+1. I’ll setup a timer for 8mins.
+1. Each team member sketches one(1) sketch in each rectangle. 
+1. Spend 1 minute on each sketch.
+1. Switch to the next idea for 1 minute when we give the signal.
+1. Explain to your ideas to your team member for 10min.
 
 
 ## Design Resources
